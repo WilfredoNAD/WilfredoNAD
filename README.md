@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilfredoNAD
-- 👀 I’m interested in Front an Backend
-- 🌱 I’m currently learning Frontend (HTML and CSS For now)
+- 👀 I’m interested in Front and Backend
+- 🌱 I’m currently learning HTML CSS and Python
 - 💞️ I’m looking to collaborate on some proyect
 - 📫 How to reach me ...
 
